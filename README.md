@@ -1,4 +1,4 @@
-# ASUS Router Administration
+# ASUS Router Administration (Codename: Router Control)
 
 This program was created to simplify the login to the admin panel on [ASUS](https://www.asus.com/) routers. This program requires a connection to the router via Wi-Fi or LAN. This program uses [CefSharp](https://github.com/cefsharp/CefSharp), so the program loads the page http://router.asus.com/ (works only on ASUS routers). Ie, this program is a shortcut to access the administration panel. 
 
@@ -6,8 +6,7 @@ Auto-update function based on [AutoUpdater.NET](https://github.com/ravibpatel/Au
 
 Known Issues
 ------------
-There is no way to access the admin panel on older versions of routers. 
-Workaround: Use the browser you use.
+
 
 System requirements
 -------------------
